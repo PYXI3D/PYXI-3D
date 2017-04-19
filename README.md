@@ -1,6 +1,6 @@
 # PYXIS - 3D VR
 
-### Project currently still under construction!
+### We didn't finish our project in time, feel free to finish yourself.
 
 This is a fork of [A-Frame](https://github.com/aframevr/aframe-boilerplate).  
 ## A-Frame Boilerplate
